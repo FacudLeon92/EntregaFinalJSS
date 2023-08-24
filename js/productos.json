@@ -1,0 +1,123 @@
+[{
+        "id": "periferico-01",
+        "titulo": "Teclado Kurama",
+        "imagen": "./img/perifericos/01.jpg",
+        "categoria": {
+            "nombre": "Perifericos",
+            "id": "perifericos"
+        },
+        "precio": 120
+    },
+    {
+        "id": "periferico-02",
+        "titulo": "Auriculares Inalambricos ",
+        "imagen": "./img/perifericos/02.jpg",
+        "categoria": {
+            "nombre": "Perifericos",
+            "id": "perifericos"
+        },
+        "precio": 145
+    },
+    {
+        "id": "periferico-03",
+        "titulo": "Mouse Logitech",
+        "imagen": "./img/perifericos/03.jpg",
+        "categoria": {
+            "nombre": "Perifericos",
+            "id": "perifericos"
+        },
+        "precio": 120
+    },
+
+    {
+        "id": "componente-01",
+        "titulo": "GTX 1660 S",
+        "imagen": "./img/componentes/01.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "componentes"
+        },
+        "precio": 350
+    },
+    {
+        "id": "componente-02",
+        "titulo": "Procesador Intel i5",
+        "imagen": "./img/componentes/02.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "componentes"
+        },
+        "precio": 240
+    },
+    {
+        "id": "componente-03",
+        "titulo": "Placa Madre",
+        "imagen": "./img/componentes/03.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "componentes"
+        },
+        "precio": 110
+    },
+
+    {
+        "id": "pc-01",
+        "titulo": "Equipo Basico",
+        "imagen": "./img/equipo/01.jpg",
+        "categoria": {
+            "nombre": "Equipos",
+            "id": "equipos"
+        },
+        "precio": 300
+    },
+    {
+        "id": "pc-02",
+        "titulo": "Equipo Intel",
+        "imagen": "./img/equipo/02.jpg",
+        "categoria": {
+            "nombre": "Equipos",
+            "id": "equipos"
+        },
+        "precio": 700
+    },
+    {
+        "id": "pc-03",
+        "titulo": "Equipo AMD",
+        "imagen": "./img/equipo/03.jpg",
+        "categoria": {
+            "nombre": "Equipos",
+            "id": "equipos"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "monitor-01",
+        "titulo": "Monitor 1",
+        "imagen": "./img/monitores/01.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 230
+    },
+    {
+        "id": "monitor-02",
+        "titulo": "Monitor 2",
+        "imagen": "./img/monitores/02.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 340
+    },
+    {
+        "id": "monitor-03",
+        "titulo": "Monitor 3",
+        "imagen": "./img/monitores/03.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 410
+    }
+]
